@@ -1,1 +1,1 @@
-# resource.uisounds.tetradui_alpha
+# resource.uisounds.tetradui_og
