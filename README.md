@@ -28,7 +28,7 @@ Credits:
 
 TetradUI Nu UI Sounds Addon
 -----------------------
-TeamUI (2022)
+TeamUI
 
 
 Project Lead
