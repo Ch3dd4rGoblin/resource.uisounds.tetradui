@@ -8,5 +8,9 @@
     <summary lang="en">Tetrad UI sounds</summary>
     <description lang="en">Tetrad UI sounds</description>
     <platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+	    <fanart>fanart.jpg</fanart>
+	</assets>
   </extension>
 </addon>
