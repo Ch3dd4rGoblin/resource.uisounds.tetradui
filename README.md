@@ -1,6 +1,7 @@
-# resource.uisounds.tetradui_og
+# Tetrad [ te-trad ]
+noun: a group or set of four
 
-This repository contains the soundpack addon that was used by default with MC360 and has been adapted to modern Kodi.
-This soundpack is intended to be used in conjunction with TetradUI. It is dubbed "OG" because its the sounds inspired from the original Xbox 360 dashboard. 
+------------------------------------------------------------------------
+TetradUI "OG" Sounds Addon for Kodi
+=====================================
 
-Credit to Team Blackbolt for the creation of the these sound effects.

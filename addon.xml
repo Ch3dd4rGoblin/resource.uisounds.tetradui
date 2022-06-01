@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="resource.uisounds.tetrad" version="0.0.1" name="Tetrad UI Sounds" provider-name="Ch3dd4rGoblin">
+<addon id="resource.uisounds.tetrad-og" version="0.0.1" name="TetradUI OG Sounds" provider-name="Ch3dd4rGoblin">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
   <extension point="kodi.resource.uisounds"/>
   <extension point="kodi.addon.metadata">
-    <summary lang="en">Tetrad UI sounds</summary>
-    <description lang="en">Tetrad UI sounds</description>
+    <summary lang="en">TetradUI OG sounds</summary>
+    <description lang="en">TetradUI OG sounds</description>
     <platform>all</platform>
 	<assets>
 		<icon>icon.png</icon>
